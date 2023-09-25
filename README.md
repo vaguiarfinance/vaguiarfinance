@@ -21,4 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaguiarfinance&show_icons=true&locale=en&layout=compact" alt="vaguiarfinance" /></p>
 
-![vaguiarfinance's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaguiarfinance&show_icons=true&theme=radical)
+## Minhas Estatísticas Públicas
+
+![vaguiarfinance's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaguiarfinance&show_icons=true&theme=transparent)
